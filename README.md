@@ -4,11 +4,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="PHP Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/vue-js.svg" alt="VueJS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/phpstorm.svg" alt="PHP Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="PHP Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VueJS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/phpstorm.svg" alt="PHP Logo" width="50" height="50"/>
 
 
 
