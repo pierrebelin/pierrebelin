@@ -3,7 +3,7 @@
 I'm an freelance web developer on Symfony/VueJS.
 I also work on monitoring application on .NET Core.
 
-You can checkout my Youtube channel for some tutorials (only FR actuualy) : ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5LwEdz8usxgvFPiFlelaQA?style=social)
+You can checkout my Youtube channel for some tutorials (only FR actually) : ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5LwEdz8usxgvFPiFlelaQA?style=social)
 
 ---
 
