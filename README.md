@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Pierre
+https://img.shields.io/youtube/channel/views/UC5LwEdz8usxgvFPiFlelaQA?style=social
+---
 
 🧰 Toolbox
 
