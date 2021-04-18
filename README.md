@@ -1,11 +1,8 @@
 ### Hi there 👋, I'm Pierre
 
-<!--
-**pierrebelin/pierrebelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/vuejs.svg" alt="VueJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue.svg" alt="VueJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/>
 
 
 
