@@ -11,12 +11,13 @@ You can checkout my Youtube channel for some tutorials (only FR actually) : ![Yo
 🧰 Toolbox
 
 Backend : 
+Backend : 
 
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NETCore" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symyfony" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgres.svg" alt="PostGres" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NETCore" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symyfony" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostGres" width="50" height="50"/> 
 
 DevOps : 
 
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" alt="Azure" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure.svg" alt="Azure" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/>
 
 Front : 
 
