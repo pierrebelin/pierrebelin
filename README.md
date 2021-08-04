@@ -10,19 +10,8 @@ You can checkout my Youtube channel for some tutorials (only FR actually) : ![Yo
 
 🧰 Toolbox
 
-Backend
+Backend : <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NETCore" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symyfony" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP" width="50" height="50"/> 
 
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NETCore" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symyfony" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP" width="50" height="50"/> 
+DevOps : <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" alt="Azure" width="50" height="50"/>
 
-DevOps :
-
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" alt="Azure" width="50" height="50"/>
-
-
-Front :
-
-<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VueJS" width="50" height="50"/> 
+Front : <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VueJS" width="50" height="50"/> 
