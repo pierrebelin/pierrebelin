@@ -2,7 +2,7 @@
 
 * I'm an freelance web developer on .NET/Symfony
 * I also work on PrestaShop/VueJs
-* I'm discovering DevOps ecosystem : Docker/Kubernetes/Azure/Helm
+* I'm friendly with DevOps ecosystem : Docker/Kubernetes/Azure/Helm
 
 You can checkout my Youtube channel for some tutorials (only FR actually) : ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5LwEdz8usxgvFPiFlelaQA?style=social)
 
